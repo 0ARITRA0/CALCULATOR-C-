@@ -1,2 +1,2 @@
-# firstone
-abcdefghi
+THIS IS FIRST CALCULATOR IN C
+
